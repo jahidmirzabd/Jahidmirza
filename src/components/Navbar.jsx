@@ -23,7 +23,7 @@ export default function Navbar() {
         {/* Logo Left */}
         <div>
           <Link href="/" className="shrink-0">
-            <div className="relative w-50 h-7.5 -left-2.5">
+            <div className="relative w-50 h-8 -left-2.5">
               <Image
                 src="/logo.png"
                 alt="Jahid Mirza Logo"
