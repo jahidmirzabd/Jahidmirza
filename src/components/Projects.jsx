@@ -12,7 +12,7 @@ const projects = [
       'A full-scale online retail platform built with Next.js 15 and Laravel 12. Features a robust cart system, secure payments, and an automated inventory engine.',
     tech: ['Next.js', 'Laravel', 'MySQL', 'Stripe'],
     image: 'https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1000&auto=format&fit=crop', // E-commerce themed
-    demo: 'https://demo.example.com',
+    demo: 'https://huss25.com',
     github: 'https://github.com/jahidmirzabd',
   },
   {
@@ -21,7 +21,7 @@ const projects = [
       'A powerful Content Management System with a decoupled architecture. Built with a Laravel backend API and a dynamic React-based admin dashboard.',
     tech: ['React', 'Laravel API', 'Sanity', 'Tailwind'],
     image: 'https://images.unsplash.com/photo-1542744094-24638eff58bb?q=80&w=1000&auto=format&fit=crop', // CMS/Dashboard themed
-    demo: 'https://dashboard.example.com',
+    demo: 'https://tnr-global.com',
     github: 'https://github.com/jahidmirzabd',
   },
   {
@@ -30,7 +30,7 @@ const projects = [
       'Multi-tenant project management tool allowing teams to collaborate in real-time. Features Kanban boards, file sharing, and automated reports.',
     tech: ['Next.js', 'Laravel Echo', 'Pusher', 'PostgreSQL'],
     image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1000&auto=format&fit=crop', // SaaS/Code themed
-    demo: 'https://task-demo.example.com',
+    demo: 'https://glidecart.co.uk',
     github: 'https://github.com/jahidmirzabd',
   },
   {
@@ -39,7 +39,7 @@ const projects = [
       'A high-performance dashboard for social media tracking. Processes large datasets with Laravel and visualizes them using React and Recharts.',
     tech: ['React', 'Laravel', 'Redis', 'Tailwind'],
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1000&auto=format&fit=crop', // Analytics themed
-    demo: 'https://analytics-demo.example.com',
+    demo: 'https://rechocleaning.co.uk',
     github: 'https://github.com/jahidmirzabd',
   },
 ];
